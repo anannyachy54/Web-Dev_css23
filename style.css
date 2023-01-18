@@ -1,0 +1,19 @@
+body{
+    background-color:plum;
+   color:darkblue;
+}
+
+
+.a p{
+    background-color: aqua;
+}
+.b>p{
+    background-color: aquamarine;
+}
+
+.c+p{
+    background-color: lightgreen;
+}
+.d~p{
+    background-color: powderblue;
+}
